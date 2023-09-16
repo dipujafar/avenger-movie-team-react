@@ -1,1 +1,1 @@
-- [Live link : ](embarrassed-wire.surge.sh)
+- Live link : embarrassed-wire.surge.sh
